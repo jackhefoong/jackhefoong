@@ -6,11 +6,9 @@ I'm passionate about **frontend development**, but I love exploring **backend wo
 
 ---
 
-### ★彡 **A little about me** 彡★:
+### ★ **A little about me** ★:
 - 💻 I work as a frontend developer, focusing on crafting smooth and efficient user experiences.
 - 🌟 Backend development is something I enjoy, and I often build full-stack projects just for fun!
-- ✨ I’ve made a few **websites** and **Discord bots**
-- ☕ I’m a **coffee lover**, and I’m learning how to make my own **latte art**
 
 ---
 
@@ -19,6 +17,7 @@ I'm passionate about **frontend development**, but I love exploring **backend wo
 - 🚀 Exploring both frontend and backend development — I enjoy full stack development.
 - 🎮 Making bots and working on quirky side projects, always aiming to learn something new.
 - ✨ Perfecting my **latte art skills** while enjoying a good cup of coffee!
+- 🧶 Crocheting daily items such as coasters and pouches!
 
 ---
 
