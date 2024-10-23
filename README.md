@@ -21,8 +21,7 @@ I'm passionate about **frontend development**, but I love exploring **backend wo
 
 ---
 
-### 🔗 **Let’s connect**:
-If you're into **cool projects** or just want to chat about tech and coffee, feel free to connect with me!
+Feel free to connect with me!
 
 
 <!---
