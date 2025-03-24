@@ -8,7 +8,7 @@ I'm passionate about **frontend development**, but I love exploring **backend wo
 
 ### ★ **A little about me** ★:
 - 💻 I work as a frontend developer, focusing on crafting smooth and efficient user experiences.
-- 🌟 Backend development is something I enjoy, and I often build full-stack projects just for fun!
+- 🌟 Backend development is something I enjoy, and I sometimes build full-stack projects for fun :)
 
 ---
 
